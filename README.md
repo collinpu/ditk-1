@@ -20,3 +20,11 @@ Github URL of the original code
 ## Demo
 - Link to the Jupyter Notebook 
 - Link to the video on Youtube
+
+
+## Functions 
+
+### __init__
+####
+- Can pass all parameters needed during training/predicting/evaluatin
+
